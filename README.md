@@ -1,13 +1,13 @@
 # React Blog Grid
 
-A simple **React + Vite project** to practice and understand **CSS Grid** concepts by building a responsive blog card layout.
+A simple React + Vite project to practice and understand CSS Grid concepts by building a responsive blog card layout.
 
 
 ---
 
-## 🚀 Features
+##  Features
 
-- Responsive blog card layout using **CSS Grid**
+- Responsive blog card layout using CSS Grid
 - Hover effects on images
 - Author info section with avatars
 - Multiple blog cards with title, description, and tags
@@ -15,17 +15,17 @@ A simple **React + Vite project** to practice and understand **CSS Grid** concep
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-- **React** (with Vite)
-- **CSS Grid & Flexbox**
-- **DiceBear Avatars API** (for author images)
-- **Unsplash / Picsum** (for blog images)
+- React (with Vite)
+- CSS Grid & Flexbox
+- DiceBear Avatars API (for author images)
+- Unsplash / Picsum (for blog images)
 
 ---
 
 
-## ⚡ Getting Started
+## Getting Started
 
 ### 1️⃣ Clone the repository
 ```bash
